@@ -1,0 +1,27 @@
+{
+   "name" : "festa",
+   "status": null,
+   "speakerDTO" :  {"firstName " : "Frank",
+   "lastName": "Marchall",
+    "email":"serg@gmail.com",
+     "phone" : "090978675",
+    "company": "Simplon"},
+   "locationDTO":{
+    "street": "14, rue de Bean",
+    "city" :"Paris",
+   "codePostal": 75018,
+    "country" : "France",
+    "verified": true
+   },
+    "organizerDTO" : {"firstName": "Serguei",
+                     "lastName": "Khan",
+                      "birthDate": "1967-01-01",
+                       "email":"serguei@gmail.com",
+                      "phone":"798798797",
+                        "addressDTO" : null},
+
+    "StartDate" : "1967-01-01" ,
+    "EndDate": "1967-12-27",
+    "maxSeats": 100,
+    "remainingSeats" : 99
+}
